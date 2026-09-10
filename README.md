@@ -6,12 +6,16 @@
 
 > **Resumen:** El siguiente ejemplo utiliza un Data Set ficticio para diseñar un modelo supervisado de clasificación con MLlib. Los datos pasan por los procesos de Limpieza, entrenamiento y evaluación del Modelo, y por ultimo obtener conclusiones técnicas
 
+# Data Set
+
+> **Data Sets apoyo:** 03. Apoyo prueba - ventas_simuladas.xlsx / ventas_simuladas.csv
+
 ---
 
 ## 📌 Tabla de Contenidos
 - [Descripción del Proyecto](#-descripción-del-proyecto)
-- [Estructura del Repositorio](#-estructura-del-repositorio)
 - [Data Set](#-Data-Set)
+- [Estructura del Repositorio](#-estructura-del-repositorio)
 - [Metodología](#-metodología)
 - [Resultados y Conclusiones](#-resultados-y-conclusiones)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
