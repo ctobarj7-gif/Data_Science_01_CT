@@ -1,28 +1,30 @@
-# 📊 [Nombre del Proyecto]
+# 📊 Ejemplo de un Modelo Predictivo utilizando Apache Spark con MLlib
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License:](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Completed-success)]()
+[![Status](https://img.io/badge/Status-Completed-success)]()
 
-> **Resumen:** [Una o dos oraciones breves que expliquen qué hace el proyecto, el problema que resuelve y el valor que aporta. Ejemplo: *Desarrollo de un modelo predictivo para anticipar fallas en componentes mecánicos utilizando análisis de series temporales y clasificadores de Machine Learning.*]
+> **Resumen:** El siguiente ejemplo utiliza un Data Set ficticio para diseñar un modelo supervisado de clasificación con MLlib. Los datos pasan por los procesos de Limpieza, entrenamiento y evaluación del Modelo, y por ultimo obtener conclusiones técnicas
 
 ---
 
 ## 📌 Tabla de Contenidos
 - [Descripción del Proyecto](#-descripción-del-proyecto)
 - [Estructura del Repositorio](#-estructura-del-repositorio)
-- [Dataset](#-dataset)
+- [Dataset]#-03. Apoyo prueba - ventas_simuladas.xlsx
 - [Metodología](#-metodología)
 - [Resultados y Conclusiones](#-resultados-y-conclusiones)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Instalación y Uso](#-instalación-y-uso)
-- [Contacto](#-contacto)
+- [Contacto](#-ctobarj7@gmail.com)
 
 ---
 
 ## 🎯 Descripción del Proyecto
 
-[Describe en detalle el contexto de negocio o problema técnico. Explica por qué es relevante resolver este problema, cuál es el objetivo principal y qué preguntas clave busca responder el análisis.]
+Se eligió el modelo de Regresión Logística porque es uno de los métodos más simples para resolver
+problemas de clasificación binaria y permite predecir si una transacción pertenece a la categoría riesgosa o
+normal. Además, es un modelo relativamente fácil de interpretar y de implementar utilizando Spark MLlib.
 
 ### Objetivos Clave:
 * **Objetivo 1:** [Ej. Realizar un análisis exploratorio de datos (EDA) para identificar tendencias clave.]
