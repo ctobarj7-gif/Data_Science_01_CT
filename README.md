@@ -11,7 +11,7 @@
 ## 📌 Tabla de Contenidos
 - [Descripción del Proyecto](#-descripción-del-proyecto)
 - [Estructura del Repositorio](#-estructura-del-repositorio)
-- [Dataset]#-03. Apoyo prueba - ventas_simuladas.xlsx
+- [Data Set](#-Data-Set)
 - [Metodología](#-metodología)
 - [Resultados y Conclusiones](#-resultados-y-conclusiones)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
@@ -27,9 +27,9 @@ problemas de clasificación binaria y permite predecir si una transacción perte
 normal. Además, es un modelo relativamente fácil de interpretar y de implementar utilizando Spark MLlib.
 
 ### Objetivos Clave:
-* **Objetivo 1:** [Ej. Realizar un análisis exploratorio de datos (EDA) para identificar tendencias clave.]
-* **Objetivo 2:** [Ej. Entrenar y comparar 3 modelos de clasificación (Random Forest, XGBoost, Regresión Logística).]
-* **Objetivo 3:** [Ej. Desplegar un dashboard interactivo / API para consulta de predicciones.]
+* **Objetivo 1:** [Realizar un análisis exploratorio de datos (EDA)]
+* **Objetivo 2:** [Limpiar los datos, Entrenar y comparar modelos de clasificación).]
+* **Objetivo 3:** [Obtener Coclusiones Tecnicas]
 
 ---
 
@@ -51,3 +51,7 @@ normal. Además, es un modelo relativamente fácil de interpretar y de implement
 ├── .gitignore            # Archivos ignorados por Git
 ├── README.md             # Documentación del proyecto
 └── requirements.txt      # Dependencias y librerías necesarias
+
+
+## Data Set 
+03. Apoyo prueba - ventas_simuladas.xlsx
